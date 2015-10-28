@@ -7,3 +7,6 @@
 [submodule "sources_non_forked/tagbar"]
 	path = sources_non_forked/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "sources_non_forked/gruvbox"]
+	path = sources_non_forked/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
